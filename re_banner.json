@@ -4,25 +4,19 @@
 	    "subtitle":"三生三世十里桃花",
 	    "picture":"https://raw.githubusercontent.com/LeoMiter/images/master/h6.jpg",
 	    "type":1,
-	    "address":"HmhVK9onFLY"
+	    "address":"video_1"
 	},
 	{
 	    "subtitle":"战狼2",
 	    "picture":"https://raw.githubusercontent.com/LeoMiter/images/master/h4.jpg",
 	    "type":1,
-	    "address":"HmhVK9onFLY"
-	},
-	{
-	    "subtitle":"特斯拉（广告）",
-	    "picture":"https://raw.githubusercontent.com/LeoMiter/images/master/h3.jpg",
-	    "type":2,
-	    "address":"xxxxx"
+	    "address":"video_1"
 	},
 	{
 	    "subtitle":"星球大战",
 	    "picture":"https://raw.githubusercontent.com/LeoMiter/images/master/h1.jpg",
 	    "type":1,
-	    "address":"HmhVK9onFLY"
+	    "address":"video_1"
 	}
     ]
 }
